@@ -1,0 +1,19 @@
+body{
+    background-color:#f6f6f6;
+    margin:0px;
+}
+
+.box {
+    background-color:#fff;
+    width:500px;
+}
+
+.box_login {
+    left :calc(50% - 250px);
+    top: calc(50% - 121px);
+}
+
+.footer a {
+    display: block;
+    text-align:center;
+}
